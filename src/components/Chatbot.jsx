@@ -502,10 +502,11 @@ Tone: Friendly, warm, and helpful — reflect the personal, handmade nature of t
                 }}
               >
                 {[
-                  "Where is my order?",
-                  "What’s your return policy?",
-                  "How long is shipping?",
-                  "Do you ship internationally?",
+                  "Do you ship outside Nigeria?",
+                  "Is this product handmade?",
+                  "How can I return a product?",
+                  "What’s the delivery time?",
+                  "Are your materials eco-friendly?",
                 ].map((q, idx) => (
                   <div
                     key={idx}
