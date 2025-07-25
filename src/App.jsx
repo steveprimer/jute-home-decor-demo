@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 import Hero from "./components/Hero";
 import ProductGallery from "./components/ProductGallery";
 import WhyUs from "./components/WhyUs";
-import WhatsAppButton from "./components/WhatsappButton";
+import WhatsAppButton from "./components/WhatsAppButton";
 // import Services from "./components/Services";
 // import Testimonials from "./components/Testimonials";
 // import Contact from "./components/Contact";
